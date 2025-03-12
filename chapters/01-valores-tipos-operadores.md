@@ -119,7 +119,7 @@ This is the first line
 And this is the second
 ```
 
-Existe, obviamente, situações nas quais você vai querer que a barra invertida em uma _String_ seja apenas uma barra invertida e não um código especial. Nesse caso, se duas barras invertidas estiverem seguidas uma da outra, elas se anulam e apenas uma será deixada no valor da _String_ resultante. Essa é a forma na qual a _String_ “`A newline character is written like “\n”.`” pode ser representada:
+Existem, obviamente, situações nas quais você vai querer que a barra invertida em uma _String_ seja apenas uma barra invertida e não um código especial. Nesse caso, se duas barras invertidas estiverem seguidas uma da outra, elas se anulam e apenas uma será deixada no valor da _String_ resultante. Essa é a forma na qual a _String_ “`A newline character is written like “\n”.`” pode ser representada:
 
 ```js
 "A newline character is written like \"\\n\"."
