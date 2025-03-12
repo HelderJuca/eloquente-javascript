@@ -1,6 +1,6 @@
 # Estrutura do Programa
 
-> O meu coração vermelho brilha nitidamente sob minha pele e ele têm que administrar 10cc de JavaScript para fazer com que eu volte (Eu respondi bem a toxinas no sangue). Cara, esse negócio vai chutar os pêssegos de direita para fora!
+> O meu coração vermelho brilha nitidamente sob minha pele e ele tem que administrar 10cc de JavaScript para fazer com que eu volte (eu respondi bem a toxinas no sangue). Cara, esse negócio vai chutar os pêssegos de direita para fora!
 
 > - _why, Why's (Poignant) Guide to Ruby
 
@@ -35,7 +35,7 @@ Como um programa mantém um estado interno? Como ele se lembra das coisas? Nós 
 var caught = 5 * 5;
 ```
 
-E isso nos dá um segundo tipo de declaração. A palavra especial (palavra-chave) `var` indica que esta sentença vai definir uma variável. Ela é seguida pelo nome da variável e, se nós quisermos dá-la imediatamente um valor, por um operador `=` e uma expressão.
+E isso nos dá um segundo tipo de declaração. A palavra especial (palavra-chave) `var` indica que esta sentença vai definir uma variável. Ela é seguida pelo nome da variável e, se nós quisermos lhe dar imediatamente um valor, por um operador `=` e uma expressão.
 
 A declaração anterior criou uma variável chamada `caught` e a usou para armazenar o valor que foi produzido pela multiplicação 5 por 5.
 
